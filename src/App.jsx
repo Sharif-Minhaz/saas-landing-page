@@ -1,4 +1,5 @@
 import "./App.css";
+import Faq from "./components/sections/Faq";
 import Features from "./components/sections/Features";
 import Header from "./components/sections/Header";
 import Hero from "./components/sections/Hero";
@@ -11,6 +12,7 @@ function App() {
 			<Hero />
 			<Features />
 			<Pricing />
+			<Faq />
 		</main>
 	);
 }
