@@ -145,9 +145,9 @@ export const plans = [
 export const testimonials = [
 	{
 		id: "0",
-		name: "Jessica Saunders",
+		name: "Johan Greg",
 		role: "Globalnomads",
-		avatarUrl: "/images/testimonials/jessica-saunders.png",
+		avatarUrl: "https://randomuser.me/api/portraits/men/2.jpg",
 		comment:
 			"Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
 	},
@@ -168,17 +168,17 @@ export const testimonials = [
 	},
 	{
 		id: "3",
-		name: "Alicia Barker",
+		name: "John Barker",
 		role: "Cyberleap",
-		avatarUrl: "/images/testimonials/alicia-barker.png",
+		avatarUrl: "https://randomuser.me/api/portraits/men/22.jpg",
 		comment:
 			"The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
 	},
 	{
 		id: "4",
-		name: "Becky Snider",
+		name: "Billy Butcher",
 		role: "Floclips",
-		avatarUrl: "/images/testimonials/becky-snider.png",
+		avatarUrl: "https://randomuser.me/api/portraits/men/72.jpg",
 		comment:
 			"Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
 	},
